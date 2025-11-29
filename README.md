@@ -2,7 +2,7 @@
 
 A demo of using LocationButton to request for location permission.
 
-For more details, please check out my blog [Little SwiftUI Tip: An Easier(Hopefully) Way to Get  Location Permission]()
+For more details, please check out my blog [Little SwiftUI Tip: An Easier(Hopefully) Way to Get  Location Permission](https://medium.com/@itsuki.enjoy/little-swiftui-tip-an-easier-hopefully-way-to-get-location-permission-b8dbe3e43cef)
 
 ## Sample Usage
 ```
